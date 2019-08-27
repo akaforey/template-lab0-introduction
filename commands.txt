@@ -1,0 +1,1 @@
+echo displays a line of text. ls lists directory contents. rm removes files or directories.
